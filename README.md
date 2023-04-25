@@ -53,3 +53,8 @@ https://www.geeksforgeeks.org/how-to-build-your-own-cli-command-line-interface-w
 https://gist.github.com/daxburatto/307e8365c41fd5401f9ac315676490bf
 https://www.freecodecamp.org/news/how-to-create-a-hex2rgb-color-converter-ce32d32afd1f/
 https://www.smashingmagazine.com/2014/05/love-generating-svg-javascript-move-to-server/
+https://codepen.io/ZevanRosser/pen/JBreYj
+https://en.wikipedia.org/wiki/SVG
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
+https://www.w3.org/TR/SVG2/shapes.html#InterfaceSVGRectElement
