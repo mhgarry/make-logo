@@ -1,4 +1,4 @@
-const Circle = require('./circle')
+const Circle = require('../lib/circle')
 
 
 

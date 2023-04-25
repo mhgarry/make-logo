@@ -1,4 +1,4 @@
-const Rectangle = require('./rectangle')
+const Rectangle = require('../lib/rectangle')
 
 describe('Rectangle', () => {
 	test('renders a yellow rectangle', () => {

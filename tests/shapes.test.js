@@ -1,4 +1,4 @@
-const Triangle = require('./shapes');
+const Triangle = require('../lib/shapes');
 
 describe('Triangle', () => {
 	test('renders a blue triangle', () => {
