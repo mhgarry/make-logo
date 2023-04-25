@@ -58,3 +58,4 @@ https://en.wikipedia.org/wiki/SVG
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
 https://www.w3.org/TR/SVG2/shapes.html#InterfaceSVGRectElement
+https://gist.github.com/carlynorama/c29ef418130da85114c89cbf4e8c399f
